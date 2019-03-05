@@ -5,5 +5,5 @@ only focus on video person re-identification
     keywords:video_pesron_reid;iLIDS-VID dataset; HOG3D
     本文的主要贡献&创新点：开源了新的视频序列数据集iLIDS-VID；能从有噪声的帧序列中选出关键帧；学习一个视频排序函数.
     实验结果：
-         ** iLIDS-VID **      **PRID**
+         __iLIDS-VID__       **PRID**
             **28.9**        **23.3**
