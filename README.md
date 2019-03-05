@@ -1,2 +1,2 @@
-# awesome_video_person_reid
-papers collection and understanding for video person re-identification
+## awesome_video_person_reid
+only focus on video person re-identification
