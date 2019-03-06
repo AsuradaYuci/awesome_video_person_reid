@@ -122,9 +122,49 @@ only focus on video person re-identification
                          iLIDS-VID         PRID          Mars        
             Rank1           57.7           87.8          79.3            
 
-## 20.Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification    --CVPR2018[paper](https://arxiv.org/pdf/1803.09882.pdf) [[code](https://github.com/ShuangLI59/Diversity-Regularized-Spatiotemporal-Attention)]
+## 20.Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification    --CVPR2018[[paper](https://arxiv.org/pdf/1803.09882.pdf)] [[code](https://github.com/ShuangLI59/Diversity-Regularized-Spatiotemporal-Attention)]
     特征（feature）： Resnet50 + attention
     实验结果(results)：
                          iLIDS-VID         PRID          Mars        
             Rank1           80.2           93.2          82.3            
             mAP              --             --           65.8
+
+## 21.Multi-shot Pedestrian Re-identification via Sequential Decision Making    --CVPR2018[[paper](https://arxiv.org/pdf/1712.07257.pdf)] [[code](https://github.com/TuSimple/rl-multishot-reid)]
+    特征（feature）： Inception-BN or AlexNet
+    实验结果(results)：
+                         iLIDS-VID         PRID          Mars        
+            Rank1           60.2           85.2          71.2            
+
+## 22.Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning    --CVPR2018[[paper](https://yu-wu.net/pdf/CVPR2018_Exploit-Unknown-Gradually.pdf)] [[code](https://github.com/Yu-Wu/Exploit-Unknown-Gradually)]
+    特征（feature）： ResNet50 + avgpooling
+    实验结果(results)：
+                         iLIDS-VID         PRID          Mars          DukeMTMC-VideoReID      
+            Rank1           --              --          62.67               72.79 
+            mAP              --             --          42.45               63.23
+
+## 23.Video Person Re-identification with Competitive Snippet-similarity Aggregation and Co-attentive Snippet Embedding    --CVPR2018[[paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1036.pdf)] [[code](https://github.com/dapengchen123/video_reid)]
+    特征（feature）： ResNet50 + attention
+    实验结果(results)：
+                         iLIDS-VID         PRID          Mars        
+            Rank1           85.4           93.0          86.3           
+            mAP             87.8           94.5          76.1 
+
+## 24.SCAN: Self-and-Collaborative Attention Network for Video Person Re-identification    --CVPR2018[[paper](https://arxiv.org/pdf/1807.05688.pdf)] 
+    特征（feature）： ResNet50 + attention
+    实验结果(results)：
+                         iLIDS-VID         PRID          Mars        
+            Rank1           88.0           95.3          87.2           
+            mAP             89.9           95.8          77.2 
+
+## 25.Video-based Person Re-identification via 3D Convolutional Networks and Non-local Attention    --arxiv2018[[paper](https://arxiv.org/abs/1807.05073.pdf)] 
+    特征（feature）： ResNet50-3D + avgpooling
+    实验结果(results)：
+                         iLIDS-VID         PRID          Mars        
+            Rank1           81.3           91.2          84.3           
+            mAP              --             --            77 
+
+## 26.Spatial-Temporal Synergic Residual Learning for Video Person Re-Identification    --arxiv2018[[paper](https://arxiv.org/pdf/1807.05799.pdf)] 
+    特征（feature）： CNN + RNN + avgpooling
+    实验结果(results)：
+                         iLIDS-VID         PRID          Mars        
+            Rank1            70             88           76.7           
