@@ -22,25 +22,25 @@ only focus on video person re-identification
             Rank1          44.3            64.1
 
 # 2016
-## 4.Deep Recurrent Convolutional Networks for Video-based Person Re-identification: An End-to-End Approach --arxiv2016[paper](https://arxiv.org/abs/1606.01609)
+## 4.Deep Recurrent Convolutional Networks for Video-based Person Re-identification: An End-to-End Approach --arxiv2016[paper](https://arxiv.org/abs/1606.01609.pdf)
     特征（feature）： four CNN（四层卷积神经网络）
     实验结果(results)：
                          iLIDS-VID         PRID
             Rank1          42.6            49.8  
 
-## 5.Top-push Video-based Person Re-identification --CVPR 2016[paper](https://arxiv.org/abs/1604.08683)
+## 5.Top-push Video-based Person Re-identification --CVPR 2016[paper](https://arxiv.org/abs/1604.08683.pdf)
     特征（feature）： HOG3D+color histograms+LBP
     实验结果(results)：
                          iLIDS-VID         PRID
             Rank1           56.33          56.74      
  
-## 6.Person Re-identification by Exploiting Spatio-temporal Cues and Multi-view Metric Learning --IEEE SRL 2016[paper](https://arxiv.org/abs/1604.08683)
+## 6.Person Re-identification by Exploiting Spatio-temporal Cues and Multi-view Metric Learning --IEEE SRL 2016[paper](https://arxiv.org/abs/1604.08683.pdf)
     特征（feature）： LBP
     实验结果(results)：
                          iLIDS-VID         PRID
             Rank1          69.13           66.78     
  
-## 7.Person Re-identification via Recurrent Feature Aggregation  --ECCV2016[paper](https://arxiv.org/abs/1701.06351) [code](https://github.com/daodaofr/caffe-re-id)
+## 7.Person Re-identification via Recurrent Feature Aggregation  --ECCV2016[paper](https://arxiv.org/abs/1701.06351.pdf) [code](https://github.com/daodaofr/caffe-re-id)
     特征（feature）： LBP+HSV+lab color channels
     实验结果(results)：
                          iLIDS-VID         PRID
@@ -53,13 +53,13 @@ only focus on video person re-identification
             Rank1           58              70      
 
 # 2017
-## 9.Video-based Person Re-identification with Accumulative Motion Contex  --TCSVT2017[paper](https://arxiv.org/abs/1701.00193) 
+## 9.Video-based Person Re-identification with Accumulative Motion Contex  --TCSVT2017[paper](https://arxiv.org/abs/1701.00193.pdf) 
     特征（feature）： CNN + RNN + opticflow 
     实验结果(results)：
                          iLIDS-VID         PRID
             Rank1           65.3            78            
 
-## 10.Learning Compact Appearance Representation for Video-based Person Re-identification  --arxiv2017[paper](https://arxiv.org/abs/1702.06294) 
+## 10.Learning Compact Appearance Representation for Video-based Person Re-identification  --arxiv2017[paper](https://arxiv.org/abs/1702.06294.pdf) 
     特征（feature）： Five CNN (5层卷积神经网络)
     实验结果(results)：
                          iLIDS-VID         PRID
@@ -78,7 +78,7 @@ only focus on video person re-identification
                          iLIDS-VID         PRID          
             Rank1           68.0           90.3       
  
- ## 13.Jointly Attentive Spatial-Temporal Pooling Networks for Video-based Person Re-identification    --ICCV2017[paper](https://arxiv.org/abs/1708.02286) [code](https://github.com/shuangjiexu/Spatial-Temporal-Pooling-Networks-ReID)
+ ## 13.Jointly Attentive Spatial-Temporal Pooling Networks for Video-based Person Re-identification    --ICCV2017[paper](https://arxiv.org/abs/1708.02286.pdf) [code](https://github.com/shuangjiexu/Spatial-Temporal-Pooling-Networks-ReID)
     特征（feature）： (3层)CNN + RNN + attention
     实验结果(results)：
                          iLIDS-VID         PRID          
@@ -102,16 +102,29 @@ only focus on video person re-identification
                          iLIDS-VID         PRID                
             Rank1           66              79            
  
-## 17.Three-Stream Convolutional Networks for Video-based Person Re-Identification    --arxiv2017[paper](https://arxiv.org/abs/1712.01652) 
+## 17.Three-Stream Convolutional Networks for Video-based Person Re-Identification    --arxiv2017[paper](https://arxiv.org/abs/1712.01652.pdf) 
     特征（feature）： (4层)CNN + RNN + avgpooling
     实验结果(results)：
                          iLIDS-VID         PRID          Mars        
             Rank1           67.5           79.7          45.6            
 
 # 2018
-## 18.Three-Stream Convolutional Networks for Video-based Person Re-Identification    --AAAI2018[paper](https://arxiv.org/abs/1711.08766) 
+## 18.TRegion-based Quality Estimation Network for Large-scale Person Re-identification    --AAAI2018[paper](https://arxiv.org/abs/1711.08766.pdf) 
     特征（feature）： (4层)CNN + RNN + avgpooling
     实验结果(results)：
                          iLIDS-VID         PRID          Mars        
             Rank1           76.1           92.4          77.83            
             mAP              --             --           71.14
+
+## 19.Video Person Re-identification by Temporal Residual Learning    --arxiv2018[paper](https://arxiv.org/abs/1802.07918.pdf) 
+    特征（feature）：  GoogleNet + BiLSTM
+    实验结果(results)：
+                         iLIDS-VID         PRID          Mars        
+            Rank1           57.7           87.8          79.3            
+
+## 20.Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification    --CVPR2018[paper](https://arxiv.org/pdf/1803.09882.pdf) [[code](https://github.com/ShuangLI59/Diversity-Regularized-Spatiotemporal-Attention)]
+    特征（feature）： Resnet50 + attention
+    实验结果(results)：
+                         iLIDS-VID         PRID          Mars        
+            Rank1           80.2           93.2          82.3            
+            mAP              --             --           65.8
