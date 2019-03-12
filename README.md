@@ -79,10 +79,11 @@ only focus on video person re-identification
             Rank1           68.0           90.3       
  
  ## 13.Jointly Attentive Spatial-Temporal Pooling Networks for Video-based Person Re-identification    --ICCV2017 [[paper](https://arxiv.org/abs/1708.02286.pdf)] [[code](https://github.com/shuangjiexu/Spatial-Temporal-Pooling-Networks-ReID)]
+ 博客解读：[[CSDN](https://blog.csdn.net/qq_34132310/article/details/88429853)]
     特征（feature）： (3层)CNN + RNN + attention
     实验结果(results)：
-                         iLIDS-VID         PRID          
-            Rank1           62              77       
+                         iLIDS-VID         PRID          Mars        
+            Rank1           62              77            44   
  
  ## 14.A Two Stream Siamese Convolutional Neural Network For Person Re-identification    --ICCV2017 [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chung_A_Two_Stream_ICCV_2017_paper.pdf)] 
     特征（feature）： CNN + RNN + attention  => siamese network
