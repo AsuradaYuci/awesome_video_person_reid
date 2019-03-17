@@ -46,7 +46,7 @@ only focus on video person re-identification
                          iLIDS-VID         PRID
             Rank1           49.3           64.1
 
-## 8.Recurrent Convolutional Network for Video-based Person Re-identification  --CVPR2016 [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/McLaughlin_Recurrent_Convolutional_Network_CVPR_2016_paper.pdf)] [[code](https://github.com/niallmcl/Recurrent-Convolutional-Video-ReID)]
+## 8.Recurrent Convolutional Network for Video-based Person Re-identification  --CVPR2016 [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/McLaughlin_Recurrent_Convolutional_Network_CVPR_2016_paper.pdf)] [[code](https://github.com/niallmcl/Recurrent-Convolutional-Video-ReID)]博客解读：[[CSDN](https://blog.csdn.net/qq_34132310/article/details/88585331)]
     特征（feature）： CNN + RNN  (非常经典的结构)
     实验结果(results)：
                          iLIDS-VID         PRID
