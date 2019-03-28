@@ -113,7 +113,14 @@ only focus on video person re-identification
     特征（feature）： (4层)CNN + RNN + avgpooling
     实验结果(results)：
                          iLIDS-VID         PRID          Mars        
-            Rank1           67.5           79.7          45.6            
+            Rank1           67.5           79.7          45.6   
+
+## 10.Phasic Maximal and Local Maximal Occurrence Representation for Video-Based Person Re-identification    --ICCSN2017 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8230298)] 
+    特征（feature）： Phasic Maximal and Local Maximal Occurrence (PM-LOMO)
+    实验结果(results)：
+                         iLIDS-VID         PRID                 
+            Rank1           57            82.58          
+                  
 
 # 2018
 ## 1.TRegion-based Quality Estimation Network for Large-scale Person Re-identification    --AAAI2018 [[paper](https://arxiv.org/abs/1711.08766.pdf)] 
