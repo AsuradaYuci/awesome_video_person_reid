@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871bb219-f2b9-4d9c-b9d2-76e4e564d339" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2020/data/AFA2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/data/AP3d1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/data/TCL1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019/data/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/AITL1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/CMMSNet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/CSTNet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/SET1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/data/TALNet1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2019/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2020/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2020/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +23,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gg8vUYeuXr1TdqZL52h9lLquoh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/2020/data" />
@@ -69,6 +78,7 @@
       <workItem from="1594083600974" duration="2027000" />
       <workItem from="1598525107612" duration="627000" />
       <workItem from="1598614403330" duration="3808000" />
+      <workItem from="1617435910047" duration="7531000" />
     </task>
     <servers />
   </component>
@@ -96,5 +106,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
