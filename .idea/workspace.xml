@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="871bb219-f2b9-4d9c-b9d2-76e4e564d339" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2019/data/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/data/AITL1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/data/CMMSNet1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/data/CSTNet1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/data/SET1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020/data/TALNet1.png" afterDir="false" />
+    <list default="true" id="871bb219-f2b9-4d9c-b9d2-76e4e564d339" name="Default" comment="add some papers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2019/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2019/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2020/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +12,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1gg8vUYeuXr1TdqZL52h9lLquoh" />
   <component name="ProjectLevelVcsManager">
@@ -79,7 +72,16 @@
       <workItem from="1598525107612" duration="627000" />
       <workItem from="1598614403330" duration="3808000" />
       <workItem from="1617435910047" duration="7531000" />
+      <workItem from="1622202897369" duration="1456000" />
     </task>
+    <task id="LOCAL-00001" summary="add some papers">
+      <created>1622203074666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622203074666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -97,6 +99,56 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -109,5 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add some papers" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some papers" />
   </component>
 </project>
