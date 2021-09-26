@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="871bb219-f2b9-4d9c-b9d2-76e4e564d339" name="Default" comment="add some papers">
+    <list default="true" id="871bb219-f2b9-4d9c-b9d2-76e4e564d339" name="Default" comment="paper for 2021">
+      <change afterPath="$PROJECT_DIR$/2021/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/data/BIC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/data/CTL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/data/DIL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/data/GRL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/data/PSTA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/data/STMN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/data/STRF.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +31,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -34,15 +42,15 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2020/data" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2021" />
       <recent name="$PROJECT_DIR$/2020/data" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/2019/data" />
       <recent name="$PROJECT_DIR$/2018/data" />
-      <recent name="$PROJECT_DIR$/2018" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/2020/data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -73,6 +81,8 @@
       <workItem from="1598614403330" duration="3808000" />
       <workItem from="1617435910047" duration="7531000" />
       <workItem from="1622202897369" duration="1456000" />
+      <workItem from="1622204364434" duration="762000" />
+      <workItem from="1632572918261" duration="10321000" />
     </task>
     <task id="LOCAL-00001" summary="add some papers">
       <created>1622203074666</created>
@@ -81,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622203074666</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="paper for 2021">
+      <created>1622204422297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622204422297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -162,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add some papers" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some papers" />
+    <MESSAGE value="paper for 2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="paper for 2021" />
   </component>
 </project>
