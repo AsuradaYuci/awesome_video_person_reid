@@ -1,7 +1,7 @@
 # awesome_video_person_reid
 only focus on video person re-identification
 
-SOTA:
+## SOTA:
                             
 |No.|Dataset  |Rank1   |mAP | Link  |
 |:-----:|:-----:|:-----:|:-----:|:---:|
@@ -11,7 +11,8 @@ SOTA:
 |4|DukeMTMC|__98.3%__|__97.4%__|[paper[ICCV2021]](https://github.com/WangYQ9/VideoReID_PSTA)|
 |5|LS-VID|__84.6%__|__75.1%__|[paper[CVPR2021]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_BiCnet-TKS_Learning_Efficient_Spatial-Temporal_Representation_for_Video_Person_Re-Identification_CVPR_2021_paper.pdf)|
 
-
+## Leaderboard for 4 benchmarks
+please refer to [LEADERBOARD.md](leaderboard.md) for the leaderboard on public benchmarks.
 
 ## Citation
 
