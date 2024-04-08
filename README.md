@@ -1,5 +1,8 @@
 # awesome_video_person_reid
-only focus on video person re-identification
+only focus on video person re-identification.
+
+# TODO
+I will update this repository in the near future.
 
 ## SOTA:
                             
