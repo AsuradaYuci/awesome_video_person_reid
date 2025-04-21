@@ -2,7 +2,7 @@
 only focus on video person re-identification.
 
 # TODO
-I will update this repository in the near future.
+This repository is a bit outdated. I will update this repository in May.
 
 ## SOTA:
                             
